@@ -13,6 +13,8 @@
 <img align="left" alt="JavaScript" width="26px" src="res/javascript.png" />
 
 
+### LEETCODE Question Series:
+
 [FROM LEETCODE TOP INTERVIEW QUESTIONS SECTION](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
 
 <details>
@@ -20,7 +22,11 @@
   
 <!--START_SECTION:activity-->
 
-1. ❗️ Remove Duplicates From Sorted Array [This is a relative link to a nested file](Arrays/removeDuplicates.js)
+1. ❗️ Remove Duplicates From Sorted Array [HERE](Arrays/removeDuplicates.js)
+2. ❗️ Best Time to Buy and Sell Stock II [HERE](Arrays/maxProfit.js)
+3. ❗️ Rotate Array [HERE](Arrays/rotate.js)
+4. ❗️ Contains Duplicate [HERE](Arrays/containsDuplicate.js)
+5. ❗️ Single Number [HERE](Arrays/singleNumber.js)
 
 <!--END_SECTION:activity-->
 
