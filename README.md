@@ -10,12 +10,12 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="JavaScript" width="26px" src="res/javascript.png" />
+<img align="left" alt="JavaScript" width="26px" src="res/javascript.png" /><br />
 
 
 ### LEETCODE Question Series:
 
-[FROM LEETCODE TOP INTERVIEW QUESTIONS SECTION](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
+[Click Here for Leetcode TOP INTERVIEW QUESTIONS SECTION](https://leetcode.com/explore/featured/card/top-interview-questions-easy/) <br />
 
 <details>
   <summary>ARRAYS</summary>
