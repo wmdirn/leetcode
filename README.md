@@ -27,6 +27,13 @@
 3. ❗️ Rotate Array [HERE](Arrays/rotate.js)
 4. ❗️ Contains Duplicate [HERE](Arrays/containsDuplicate.js)
 5. ❗️ Single Number [HERE](Arrays/singleNumber.js)
+6. ❗️ Intersection of Two Arrays II [HERE](Arrays/intersect.js)
+7. ❗️ Plus One [HERE](Arrays/plusOne.js)
+8. ❗️ Move Zeroes [HERE](Arrays/moveZeroes.js)
+9. ❗️ Two Sum [HERE](Arrays/twoSum.js)
+10. ❗️ Valid Soduku [HERE](Arrays/twoSum.js)
+11. ❗️ Rotate Image [HERE](Arrays/rotateImage.js)
+
 
 <!--END_SECTION:activity-->
 
