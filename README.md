@@ -31,7 +31,7 @@
 7. ❗️ Plus One [HERE](Arrays/plusOne.js)
 8. ❗️ Move Zeroes [HERE](Arrays/moveZeroes.js)
 9. ❗️ Two Sum [HERE](Arrays/twoSum.js)
-10. ❗️ Valid Soduku [HERE](Arrays/twoSum.js)
+10. ❗️ Valid Soduku [HERE](Arrays/isValidSoduku.js)
 11. ❗️ Rotate Image [HERE](Arrays/rotateImage.js)
 
 
